@@ -1,4 +1,4 @@
-
+``` cpp
 %%writefile PB302_1.cpp
 //programa para imprimir mensaje de bienvenida
 //crea;do por Marisol Tamayo Solis 
@@ -12,3 +12,4 @@ int main()
   cout<<"gracias por programar en clase";
   return 0;
 }
+``` 
