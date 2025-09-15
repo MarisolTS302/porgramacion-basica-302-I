@@ -12,4 +12,8 @@ int main()
   cout<<"gracias por programar en clase";
   return 0;
 }
-``` 
+```
+
+
+bienvenidos a programacion basica en c++
+gracias por programar en clase
